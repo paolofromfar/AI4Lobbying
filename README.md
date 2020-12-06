@@ -5,7 +5,6 @@ Final project for the Building AI course
 ## Summary
 
 This project is about collecting all available data from EU institutions on a specific subject. It would automatically create links between Members of the European Parliament and their expressed votes to create a map of interests, cross party and cross nationalities.
-It would also look into proposed amendments to reinforce, or challenge, the map of interests built.  
 
 
 ## Background
@@ -36,6 +35,8 @@ https://www.politico.eu
 
 https://www.endseurope.com
 
+The AI methods used would have to categorise the data found, itemise them, label them according to being "in favour" or "opposed" to the key idea.
+It would also look into proposed amendments to reinforce, or challenge, the map of interests built.  
 
 ## Challenges
 
