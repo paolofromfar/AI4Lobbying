@@ -4,7 +4,7 @@ Final project for the Building AI course
 
 ## Summary
 
-This project is about collecting all available data from EU institutions on a specific subject. It would automatically create links between Members of the European Parliament and their expressed votes to create a map of interests, cross party and cross nationalities.
+AI4Lobbying collects all available data from EU institutions on a specific subject. It establishes links between Members of the European Parliament and their expressed votes to create a map of interests, cross party and cross nationalities.
 
 
 ## Background
