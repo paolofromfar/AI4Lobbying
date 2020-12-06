@@ -1,5 +1,5 @@
 # AI4Lobbying
-AI project to help ethical lobbying
+AI project to help ethical lobbying - 
 Final project for the Building AI course
 
 ## Summary
