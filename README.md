@@ -1,4 +1,4 @@
-## AI4Lobbying
+# AI4Lobbying
 AI project to help ethical lobbying - Building AI course project
 
 ## Summary
