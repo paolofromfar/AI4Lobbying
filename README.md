@@ -16,7 +16,7 @@ Any interest group, be it representing environmental interests, consumer instere
 
 The Ai4Lobbying would be the ideal tool to map the situation and dinamically improve it at every step in the legislative process.
 
-## Data sources and AI methods
+### Data sources and AI methods
 
 Data comes from all available European Institutions public websites, for instance:
 
