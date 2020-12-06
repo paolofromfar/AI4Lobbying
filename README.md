@@ -7,9 +7,11 @@ Final project for the Building AI course
 AI4Lobbying collects all available data from EU institutions on a specific subject. It establishes links between Members of the European Parliament and their expressed votes to create a map of interests.
 
 
+
 ## Background
 
 The idea tackles the issue of identification of supporters, or not, of a specific idea. It is a key issue for lobbysts to be able to identify the two camps, to have the possibility to explain and motivate the position. It is THE problem to tackle at every new legislative proposal. To me, working in the field, it would greatly improve the available knowledge. By expressing explicitly each other interests, cross party and cross nationalities, it woudl also enhance the level of transparency of the political process.
+
 
 
 ## How is it used?
