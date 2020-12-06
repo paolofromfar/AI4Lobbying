@@ -10,7 +10,7 @@ It would also look into proposed amendments to reinforce, or challenge, the map 
 
 ## Background
 
-The idea tackles the issue of identification of supporters, or not, of a specific idea. It is a key issue for lobbysts to be able to identify the two camps, to have the possibility to explain and motivate the position. It is THE problem to tackle at every new legislative proposal. To me, working in the field, it woudl greatly improve the available knowledge. By expressing explicitly each other interests, it woudl also enhance the level of transparency of the political process.
+The idea tackles the issue of identification of supporters, or not, of a specific idea. It is a key issue for lobbysts to be able to identify the two camps, to have the possibility to explain and motivate the position. It is THE problem to tackle at every new legislative proposal. To me, working in the field, it would greatly improve the available knowledge. By expressing explicitly each other interests, it woudl also enhance the level of transparency of the political process.
 
 
 ## How is it used?
@@ -25,12 +25,15 @@ The Ai4Lobbying would be the ideal tool to map the situation and dinamically imp
 Data comes from all available European Institutions public websites, for instance:
 
 https://www.europarl.europa.eu/portal/en
+
 https://ec.europa.eu/info/index_it
+
 https://www.consilium.europa.eu/en/european-council/
 
 Corroborated by analysis done in online publicly available news magazines, for instance:
 
 https://www.politico.eu
+
 https://www.endseurope.com
 
 
