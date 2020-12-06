@@ -1,10 +1,9 @@
 # AI4Lobbying
-AI project to help ethical lobbying - 
-Final project for the Building AI course
+AI project to help ethical lobbying - Building AI course project
 
 ## Summary
 
-AI4Lobbying collects all available data from EU institutions on a specific subject. It establishes links between Members of the European Parliament and their expressed votes to create a map of interests.
+AI4Lobbying collects all available data from EU institutions on a specific subject. It establishes links between Members of the European Parliament and their expressed votes to create a map of interests. It is my Building AI course project.
 
 
 
