@@ -10,13 +10,13 @@ AI4Lobbying collects all available data from EU institutions on a specific subje
 
 ## Background
 
-The idea tackles the issue of identification of supporters, or not, of a specific idea. It is a key issue for lobbysts to be able to identify the two camps, to have the possibility to explain and motivate the position. It is THE problem to tackle at every new legislative proposal. To me, working in the field, it would greatly improve the available knowledge. By expressing explicitly each other interests, cross party and cross nationalities, it woudl also enhance the level of transparency of the political process.
+The idea tackles the issue of identification of supporters, or not, of a specific idea. It is a key issue for lobbysts to be able to identify the two camps, to have the possibility to explain and motivate the position. 
 
 
 
 ## How is it used?
 
-Any interest group, be it representing environmental interests, consumer insterests or sectorial interests, has to identify the camp of supporters and the opposite camp. Ideally, also the camp of "not yet decided" would be useful, so to possibly convince them.
+Any interest group, be it representing environmental interests, consumer insterests or sectorial interests, has to identify the camp of supporters and the opposite camp. Ideally, also the camp of "not yet decided" would be useful, so to possibly convince them. It is THE problem to tackle at every new legislative proposal. It would greatly improve the available knowledge. By expressing explicitly each other interests, cross party and cross nationalities, it woudl also enhance the level of transparency of the political process.
 
 The Ai4Lobbying would be the ideal tool to map the situation and dinamically improve it at every step in the legislative process.
 
