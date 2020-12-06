@@ -12,11 +12,6 @@ It would also look into proposed amendments to reinforce, or challenge, the map 
 
 The idea tackles the issue of identification of supporters, or not, of a specific idea. It is a key issue for lobbysts to be able to identify the two camps, to have the possibility to explain and motivate the position. It is THE problem to tackle at every new legislative proposal. To me, working in the field, it woudl greatly improve the available knowledge. By expressing explicitly each other interests, it woudl also enhance the level of transparency of the political process.
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
-
 
 ## How is it used?
 
